@@ -10,7 +10,7 @@ Additionally, the dataset is stored in Google Drive. You can download it from th
 [Download creditcard.csv](https://drive.google.com/file/d/178YzJ_VMbmQfvcUZn85WcNTJ5BlcFIMF/view?usp=sharing)
 
 ## Project Structure
-
+```
 │
 ├── data/
 │ ├── creditcard.csv # Original dataset
@@ -32,6 +32,7 @@ Additionally, the dataset is stored in Google Drive. You can download it from th
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Models and Results
 
