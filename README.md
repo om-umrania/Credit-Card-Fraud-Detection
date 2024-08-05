@@ -50,18 +50,18 @@ The following models have been implemented and evaluated:
 
 1. Clone the repository:
 
-```sh
+```bash
    git clone https://github.com/om-umrania/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
 ```
 2. Install the dependencies:
 
-```sh
-Copy code
+```bash
 pip install -r requirements.txt
 ```
 
-3. Download the dataset from Google Drive and place it in the data folder.
+3. Download the dataset from Google Drive and place it in the data folder. [Download](https://drive.google.com/file/d/178YzJ_VMbmQfvcUZn85WcNTJ5BlcFIMF/view?usp=sharing)
+
 
 4. Run the notebooks or scripts:
 - Notebooks: Open and run the Jupyter notebooks in the notebooks folder.
