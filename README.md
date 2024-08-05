@@ -51,7 +51,7 @@ The following models have been implemented and evaluated:
 1. Clone the repository:
 
 ```sh
-   git clone https://github.com/your_username/credit-card-fraud-detection.git
+   git clone https://github.com/om-umrania/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
 ```
 2. Install the dependencies:
